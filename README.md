@@ -1,8 +1,4 @@
-#Computer Networks Assignment
-#Socket Programming
-#Team:
 ## Daksh Lalwani(20161156)
-## Aashish Kumar(20161111)
 
 ## How to run
 1. Open a terminal and go to directory Server
